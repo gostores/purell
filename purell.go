@@ -13,7 +13,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gostores/urlesc"
+	"github.com/govenue/urlesc"
 	"golang.org/x/net/idna"
 	"golang.org/x/text/unicode/norm"
 	"golang.org/x/text/width"
